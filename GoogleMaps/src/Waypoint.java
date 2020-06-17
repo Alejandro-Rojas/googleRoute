@@ -1,10 +1,3 @@
-/*
- * CS 2050 - Computer Science II - Spring 2020
- * Instructor: Thyago Mota
- * Description: Prg01 - Waypoint class
- * Your name(s): Alejandro Rojas and Vicram Mehta
- */
-
 public class Waypoint {
 
     private double latitude;

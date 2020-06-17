@@ -1,10 +1,3 @@
-/*
- * CS 250 - Computer Science II - Spring 2020
- * Instructor: Thyago Mota
- * Description: Prg 01 - RouteDriver class
- * Your name(s): Alejandro Rojas and Vicram Mehta
- */
-
 public class Node {
     private static final Object Waypoint = null;
     private Waypoint waypoint;

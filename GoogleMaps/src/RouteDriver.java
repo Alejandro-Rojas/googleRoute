@@ -1,10 +1,3 @@
-/*
- * CS 250 - Computer Science II - Spring 2020
- * Instructor: Thyago Mota
- * Description: Prg 01 - RouteDriver class
- * Your name(s): Alejandro Rojas and Vicram Mehta
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
